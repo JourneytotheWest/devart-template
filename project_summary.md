@@ -1,33 +1,51 @@
-# Project Title
-Insert the name of your project
+![封面图片](project_images/封面2.jpg)
+
+
+
+# Inside the Station Outside the Station
+
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Jing Shan
+- Yannan Xu 
+- Tingting Shao
 
-## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+## Concept 
+We tried to do a project, it is the most beautiful bus lines with 200 city all around the world.And use the open-source approach to achieve the data. Thus proposed a new concept of bus travel, forming some pictures of the distinctive cities tour cards. 
+  
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+## Embodiment
+We picked out the most beautiful bus line in Hangzhou as our best practice.  That is how we do in Hangzhou. Then we open it up, these cities all around the world you can do such a thing like us. Thus we get the world's 200 most beautiful bus lines.
 
-[Example Link](http://www.google.com "Example Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+## Ink manuscripts
+![Ink manuscripts2](project_images/11.png)
+![Ink manuscripts3](project_images/15.png)
+![Ink manuscripts4](project_images/img001.png)
+![Ink manuscripts1](project_images/img005.png)
 
-[Example Link](http://www.google.com "Example Link")
 
+## Concept Demonstration
+We have chosen ink to express the form of Hangzhou taste.Results of our practice presented in a way to interact with web pages, interactive content, including 
+
+1 text message, text information about the surrounding attractions 
+The image information, including 
+    
+    a each site a logo, 
+    
+    b multidimensional Street 
+    
+    c When King dynamic, users upload pictures to share on a node, you can comment and socializing, 
+
+2 multi-dimensional (weather, season) 
+
+3 video information, you can see the real bus line video, video progress bar is the route 
+
+4 Voice message, the voice of attractions associated with the site information 
+
+5 position information, visualization locate the bus that actual operating conditions 
+Technology
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
