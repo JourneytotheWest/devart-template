@@ -1,5 +1,6 @@
 
- 3 .  Video information. You can see the bus lines real video. The video progress bar is the route .
+ 3 .  Video information. You can see the bus lines real video. The video progress bar is the route .Pull the video progress bar will fast-forward the video to the next station and start playing the real video.
+
 
 
 

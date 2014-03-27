@@ -22,7 +22,12 @@
 
 the site's voice
 
+Sound information: Click on the sound button on the station which will play the sound associated with the station information.Such as Lingyin Temple. This station will broadcast the bell.
+
+
 ![Ink manuscripts1](../project_images/声音1.jpg)
+
+
 ![Ink manuscripts1](../project_images/声音2.jpg)
 
 
@@ -31,4 +36,7 @@ the site's voice
 
 ##  Weather Information
 ![Ink manuscripts1](../project_images/天气.jpg)
+
+
+
 ![Ink manuscripts1](../project_images/天气2.jpg)
