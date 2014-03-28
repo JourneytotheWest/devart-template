@@ -7,7 +7,7 @@
 
 ## Authors
 - Jing Shan
-- Yannan Xu 
+- Yannan Xu
 
 
 
