@@ -8,7 +8,7 @@
 
 
 
-![Ink manuscripts1](../project_images/视频1.jpg)
+![Ink manuscripts1](../project_images/shipin1.jpg)
 
 
-![Ink manuscripts1](../project_images/视频2.jpg)
+![Ink manuscripts1](../project_images/shipin2.jpg)

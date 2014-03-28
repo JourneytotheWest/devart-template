@@ -1,4 +1,4 @@
-![封面图片](project_images/封面2.jpg)
+![封面图片](project_images/fengmian2.jpg)
 
 
 
@@ -8,7 +8,7 @@
 ## Authors
 - Jing Shan
 - Yannan Xu 
-- Tingting Shao
+
 
 
 
@@ -19,7 +19,8 @@ We want a this search site has the unique style of the city . And you can see th
 
 
 We picked out a beautiful bus lines in Hangzhou as our best practices . We provide a complete solution .That is how we do in Hangzhou . Then we open it up . These cities all around the world can do such a thing like us. Thus we get the world's 200 most beautiful bus lines .
-This design will be placed on bus stations, in the form of Web pages to facilitate tourists inquiry
+
+This design will be placed on bus stations, in the form of Web pages to facilitate tourists inquiry.
 
 
 
