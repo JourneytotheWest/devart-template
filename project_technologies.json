@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "maps",
+            "youtube",
+            "flickr"
         ],
         "platforms": [
-            "insert platforms"
+            "Linux",
+            "Windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jquery"
         ]
     },
     "themes": [
-        "insert themes"
+        "CHINA"
     ]
 }
